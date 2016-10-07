@@ -1,0 +1,16 @@
+stats\Test\BaseballApi
+ [x] MockObject
+ [x] Mockery
+
+stats\Test\Baseball
+ [x] Calc avg equals
+ [x] Calc hits are strings
+ [ ] Calc 
+ [x] Slugging
+ [x] On base perc
+ [x] Ops
+ [x] Calc ops private
+
+First
+ [x] Uselessness
+

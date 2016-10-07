@@ -1,0 +1,575 @@
+<?php
+$coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
+$coverage->setData(array (
+  'C:\\xampp\\htdocs\\stats\\Test\\BaseballTest.php' => 
+  array (
+    12 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      6 => 'stats\\Test\\BaseballTest::testSlugging',
+      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      8 => 'stats\\Test\\BaseballTest::testOps',
+      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    13 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      6 => 'stats\\Test\\BaseballTest::testSlugging',
+      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      8 => 'stats\\Test\\BaseballTest::testOps',
+      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    14 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      6 => 'stats\\Test\\BaseballTest::testSlugging',
+      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      8 => 'stats\\Test\\BaseballTest::testOps',
+      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    17 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      6 => 'stats\\Test\\BaseballTest::testSlugging',
+      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      8 => 'stats\\Test\\BaseballTest::testOps',
+      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    18 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      6 => 'stats\\Test\\BaseballTest::testSlugging',
+      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      8 => 'stats\\Test\\BaseballTest::testOps',
+      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    19 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      6 => 'stats\\Test\\BaseballTest::testSlugging',
+      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      8 => 'stats\\Test\\BaseballTest::testOps',
+      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    23 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+    ),
+    24 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+    ),
+    26 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+    ),
+    27 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+    ),
+    31 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+    ),
+    32 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+    ),
+    33 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+    ),
+    37 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    38 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    40 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    41 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    45 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    46 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    47 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    60 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+    ),
+    61 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+    ),
+    62 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+    ),
+    64 => NULL,
+    66 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+    ),
+    67 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+    ),
+    71 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+    ),
+    72 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+    ),
+    73 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+    ),
+    79 => 
+    array (
+    ),
+    80 => 
+    array (
+    ),
+    81 => 
+    array (
+    ),
+    82 => 
+    array (
+    ),
+    83 => 
+    array (
+    ),
+    86 => NULL,
+    92 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    93 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    94 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    95 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    97 => NULL,
+    103 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+    ),
+    104 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+    ),
+    105 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+    ),
+    106 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+    ),
+    107 => NULL,
+    120 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOps',
+    ),
+    121 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOps',
+    ),
+    122 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOps',
+    ),
+    123 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOps',
+    ),
+    145 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    146 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    147 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    148 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    149 => NULL,
+    153 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    154 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    155 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    156 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    157 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    159 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+  ),
+  'C:\\xampp\\htdocs\\stats\\BaseballApi.php' => 
+  array (
+    8 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::testMockery',
+    ),
+    9 => NULL,
+    15 => 
+    array (
+    ),
+    16 => 
+    array (
+    ),
+    18 => NULL,
+  ),
+  'C:\\xampp\\htdocs\\stats\\Test\\FirstTest.php' => 
+  array (
+    9 => 
+    array (
+      0 => 'FirstTest::testUselessness',
+    ),
+  ),
+  'C:\\xampp\\htdocs\\stats\\Test\\BaseballApiTest.php' => 
+  array (
+    26 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::test_MockObject',
+    ),
+    27 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::test_MockObject',
+    ),
+    29 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::test_MockObject',
+    ),
+    30 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::test_MockObject',
+    ),
+    31 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::test_MockObject',
+    ),
+    32 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::test_MockObject',
+    ),
+    33 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::test_MockObject',
+    ),
+    34 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::test_MockObject',
+    ),
+    35 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::test_MockObject',
+    ),
+    42 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::testMockery',
+    ),
+    43 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::testMockery',
+    ),
+    44 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::testMockery',
+    ),
+    45 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::testMockery',
+    ),
+    47 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::testMockery',
+    ),
+    49 => 
+    array (
+      0 => 'stats\\Test\\BaseballApiTest::testMockery',
+    ),
+  ),
+  'C:\\xampp\\htdocs\\stats\\Baseball.php' => 
+  array (
+    13 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+    ),
+    14 => 
+    array (
+    ),
+    15 => 
+    array (
+    ),
+    17 => NULL,
+    18 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+    ),
+    19 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+    ),
+    20 => 
+    array (
+    ),
+    21 => 
+    array (
+    ),
+    24 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+    ),
+    26 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
+      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+    ),
+    27 => NULL,
+    38 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+    ),
+    39 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+    ),
+    40 => 
+    array (
+    ),
+    41 => 
+    array (
+    ),
+    44 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+    ),
+    46 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+    ),
+    47 => NULL,
+    54 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    55 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    56 => 
+    array (
+    ),
+    57 => 
+    array (
+    ),
+    60 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    62 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    63 => NULL,
+    68 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOps',
+    ),
+    69 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOps',
+    ),
+    70 => NULL,
+    76 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    77 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    78 => NULL,
+  ),
+));
+$coverage->setTests(array (
+  'UNCOVERED_FILES_FROM_WHITELIST' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'stats\\Test\\BaseballApiTest::test_MockObject' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballApiTest::testMockery' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testCalcAvgEquals' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testCalcHitsAreStrings' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testCalc with data set #0' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testCalc with data set #1' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testCalc with data set #2' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testCalc with data set #3' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testSlugging' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testOnBasePerc' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testOps' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testcalc_ops_private' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'FirstTest::testUselessness' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+));
+
+$filter = $coverage->filter();
+$filter->setWhitelistedFiles(array (
+  'C:\\xampp\\htdocs\\stats\\Baseball.php' => true,
+  'C:\\xampp\\htdocs\\stats\\BaseballApi.php' => true,
+  'C:\\xampp\\htdocs\\stats\\Test\\BaseballApiTest.php' => true,
+  'C:\\xampp\\htdocs\\stats\\Test\\BaseballTest.php' => true,
+  'C:\\xampp\\htdocs\\stats\\Test\\FirstTest.php' => true,
+));
+
+return $coverage;

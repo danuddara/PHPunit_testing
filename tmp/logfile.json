@@ -1,0 +1,250 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 13
+}{
+    "event": "suiteStart",
+    "suite": "stats\\Test\\BaseballApiTest",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "stats\\Test\\BaseballApiTest",
+    "test": "stats\\Test\\BaseballApiTest::test_MockObject"
+}{
+    "event": "test",
+    "suite": "stats\\Test\\BaseballApiTest",
+    "test": "stats\\Test\\BaseballApiTest::test_MockObject",
+    "status": "pass",
+    "time": 0.036003112792969,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "stats\\Test\\BaseballApiTest",
+    "test": "stats\\Test\\BaseballApiTest::testMockery"
+}{
+    "event": "test",
+    "suite": "stats\\Test\\BaseballApiTest",
+    "test": "stats\\Test\\BaseballApiTest::testMockery",
+    "status": "pass",
+    "time": 0.052006006240845,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "stats\\Test\\BaseballTest",
+    "tests": 10
+}{
+    "event": "testStart",
+    "suite": "stats\\Test\\BaseballTest",
+    "test": "stats\\Test\\BaseballTest::testCalcAvgEquals"
+}{
+    "event": "test",
+    "suite": "stats\\Test\\BaseballTest",
+    "test": "stats\\Test\\BaseballTest::testCalcAvgEquals",
+    "status": "pass",
+    "time": 0.0090010166168213,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "stats\\Test\\BaseballTest",
+    "test": "stats\\Test\\BaseballTest::testCalcHitsAreStrings"
+}{
+    "event": "test",
+    "suite": "stats\\Test\\BaseballTest",
+    "test": "stats\\Test\\BaseballTest::testCalcHitsAreStrings",
+    "status": "pass",
+    "time": 0.01600193977356,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "stats\\Test\\BaseballTest::testCalc",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "stats\\Test\\BaseballTest::testCalc",
+    "test": "stats\\Test\\BaseballTest::testCalc with data set #0 (389, 129)"
+}{
+    "event": "test",
+    "suite": "stats\\Test\\BaseballTest::testCalc",
+    "test": "stats\\Test\\BaseballTest::testCalc with data set #0 (389, 129)",
+    "status": "warning",
+    "time": 0.0090010166168213,
+    "trace": [
+        {
+            "file": "C:\\xampp\\php\\pear\\PHPUnit\\TextUI\\Command.php",
+            "line": 176,
+            "function": "doRun",
+            "class": "PHPUnit_TextUI_TestRunner",
+            "type": "->"
+        },
+        {
+            "file": "C:\\xampp\\php\\pear\\PHPUnit\\TextUI\\Command.php",
+            "line": 129,
+            "function": "run",
+            "class": "PHPUnit_TextUI_Command",
+            "type": "->"
+        }
+    ],
+    "message": "Trying to @cover or @use not existing method \"Baseball::calc_avg\".\n",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "stats\\Test\\BaseballTest::testCalc",
+    "test": "stats\\Test\\BaseballTest::testCalc with data set #1 ('hello', 129)"
+}{
+    "event": "test",
+    "suite": "stats\\Test\\BaseballTest::testCalc",
+    "test": "stats\\Test\\BaseballTest::testCalc with data set #1 ('hello', 129)",
+    "status": "warning",
+    "time": 0.0080010890960693,
+    "trace": [
+        {
+            "file": "C:\\xampp\\php\\pear\\PHPUnit\\TextUI\\Command.php",
+            "line": 176,
+            "function": "doRun",
+            "class": "PHPUnit_TextUI_TestRunner",
+            "type": "->"
+        },
+        {
+            "file": "C:\\xampp\\php\\pear\\PHPUnit\\TextUI\\Command.php",
+            "line": 129,
+            "function": "run",
+            "class": "PHPUnit_TextUI_Command",
+            "type": "->"
+        }
+    ],
+    "message": "Trying to @cover or @use not existing method \"Baseball::calc_avg\".\n",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "stats\\Test\\BaseballTest::testCalc",
+    "test": "stats\\Test\\BaseballTest::testCalc with data set #2 (389, 'hello')"
+}{
+    "event": "test",
+    "suite": "stats\\Test\\BaseballTest::testCalc",
+    "test": "stats\\Test\\BaseballTest::testCalc with data set #2 (389, 'hello')",
+    "status": "warning",
+    "time": 0.0090010166168213,
+    "trace": [
+        {
+            "file": "C:\\xampp\\php\\pear\\PHPUnit\\TextUI\\Command.php",
+            "line": 176,
+            "function": "doRun",
+            "class": "PHPUnit_TextUI_TestRunner",
+            "type": "->"
+        },
+        {
+            "file": "C:\\xampp\\php\\pear\\PHPUnit\\TextUI\\Command.php",
+            "line": 129,
+            "function": "run",
+            "class": "PHPUnit_TextUI_Command",
+            "type": "->"
+        }
+    ],
+    "message": "Trying to @cover or @use not existing method \"Baseball::calc_avg\".\n",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "stats\\Test\\BaseballTest::testCalc",
+    "test": "stats\\Test\\BaseballTest::testCalc with data set #3 ('hello', 'hello')"
+}{
+    "event": "test",
+    "suite": "stats\\Test\\BaseballTest::testCalc",
+    "test": "stats\\Test\\BaseballTest::testCalc with data set #3 ('hello', 'hello')",
+    "status": "warning",
+    "time": 0.0080008506774902,
+    "trace": [
+        {
+            "file": "C:\\xampp\\php\\pear\\PHPUnit\\TextUI\\Command.php",
+            "line": 176,
+            "function": "doRun",
+            "class": "PHPUnit_TextUI_TestRunner",
+            "type": "->"
+        },
+        {
+            "file": "C:\\xampp\\php\\pear\\PHPUnit\\TextUI\\Command.php",
+            "line": 129,
+            "function": "run",
+            "class": "PHPUnit_TextUI_Command",
+            "type": "->"
+        }
+    ],
+    "message": "Trying to @cover or @use not existing method \"Baseball::calc_avg\".\n",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "",
+    "test": "stats\\Test\\BaseballTest::testSlugging"
+}{
+    "event": "test",
+    "suite": "",
+    "test": "stats\\Test\\BaseballTest::testSlugging",
+    "status": "pass",
+    "time": 0.0090010166168213,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "",
+    "test": "stats\\Test\\BaseballTest::testOnBasePerc"
+}{
+    "event": "test",
+    "suite": "",
+    "test": "stats\\Test\\BaseballTest::testOnBasePerc",
+    "status": "pass",
+    "time": 0.0090010166168213,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "",
+    "test": "stats\\Test\\BaseballTest::testOps"
+}{
+    "event": "test",
+    "suite": "",
+    "test": "stats\\Test\\BaseballTest::testOps",
+    "status": "pass",
+    "time": 0.0080008506774902,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "",
+    "test": "stats\\Test\\BaseballTest::testcalc_ops_private"
+}{
+    "event": "test",
+    "suite": "",
+    "test": "stats\\Test\\BaseballTest::testcalc_ops_private",
+    "status": "pass",
+    "time": 0.0080010890960693,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "FirstTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "FirstTest",
+    "test": "FirstTest::testUselessness"
+}{
+    "event": "test",
+    "suite": "FirstTest",
+    "test": "FirstTest::testUselessness",
+    "status": "pass",
+    "time": 0.0080001354217529,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

@@ -1,0 +1,15 @@
+TAP version 13
+ok 1 - stats\Test\BaseballApiTest::test_MockObject
+ok 2 - stats\Test\BaseballApiTest::testMockery
+ok 3 - stats\Test\BaseballTest::testCalcAvgEquals
+ok 4 - stats\Test\BaseballTest::testCalcHitsAreStrings
+not ok 5 - Warning: stats\Test\BaseballTest::testCalc with data set #0 (389, 129)
+not ok 6 - Warning: stats\Test\BaseballTest::testCalc with data set #1 ('hello', 129)
+not ok 7 - Warning: stats\Test\BaseballTest::testCalc with data set #2 (389, 'hello')
+not ok 8 - Warning: stats\Test\BaseballTest::testCalc with data set #3 ('hello', 'hello')
+ok 9 - stats\Test\BaseballTest::testSlugging
+ok 10 - stats\Test\BaseballTest::testOnBasePerc
+ok 11 - stats\Test\BaseballTest::testOps
+ok 12 - stats\Test\BaseballTest::testcalc_ops_private
+ok 13 - FirstTest::testUselessness
+1..13

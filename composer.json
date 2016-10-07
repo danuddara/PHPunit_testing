@@ -1,0 +1,13 @@
+{
+    "require": {
+        "Mockery/Mockery":">=0.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "stats": ""
+        }
+    }
+}
