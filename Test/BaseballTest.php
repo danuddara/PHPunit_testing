@@ -32,6 +32,20 @@ class BaseballTest extends \PHPUnit_Framework_TestCase
          $this->assertEquals($result, $formatexpectedresult);
     }
     
+     public function testCalcAvgHasZeroAtBats()
+    {
+        $atbats = 0;
+        $hits = 129;
+        
+        $result = $this->instance->calc_avg($atbats,$hits);
+        //$expectedresult = $hits/$atbats;
+        
+        //$this->assertEquals($result, $expectedresult);
+        
+        $formatexpectedresult = 0;
+         $this->assertEquals($result, $formatexpectedresult);
+    }
+    
     public function testCalcHitsAreStrings()
     {
          $atbats = 389;

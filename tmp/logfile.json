@@ -1,7 +1,7 @@
 {
     "event": "suiteStart",
     "suite": "Application Test Suite",
-    "tests": 13
+    "tests": 14
 }{
     "event": "suiteStart",
     "suite": "stats\\Test\\BaseballApiTest",
@@ -15,7 +15,7 @@
     "suite": "stats\\Test\\BaseballApiTest",
     "test": "stats\\Test\\BaseballApiTest::test_MockObject",
     "status": "pass",
-    "time": 0.036003112792969,
+    "time": 0.035003900527954,
     "trace": [],
     "message": "",
     "output": ""
@@ -28,14 +28,14 @@
     "suite": "stats\\Test\\BaseballApiTest",
     "test": "stats\\Test\\BaseballApiTest::testMockery",
     "status": "pass",
-    "time": 0.052006006240845,
+    "time": 0.05300498008728,
     "trace": [],
     "message": "",
     "output": ""
 }{
     "event": "suiteStart",
     "suite": "stats\\Test\\BaseballTest",
-    "tests": 10
+    "tests": 11
 }{
     "event": "testStart",
     "suite": "stats\\Test\\BaseballTest",
@@ -52,13 +52,26 @@
 }{
     "event": "testStart",
     "suite": "stats\\Test\\BaseballTest",
+    "test": "stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats"
+}{
+    "event": "test",
+    "suite": "stats\\Test\\BaseballTest",
+    "test": "stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats",
+    "status": "pass",
+    "time": 0.01600193977356,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "stats\\Test\\BaseballTest",
     "test": "stats\\Test\\BaseballTest::testCalcHitsAreStrings"
 }{
     "event": "test",
     "suite": "stats\\Test\\BaseballTest",
     "test": "stats\\Test\\BaseballTest::testCalcHitsAreStrings",
     "status": "pass",
-    "time": 0.01600193977356,
+    "time": 0.0090007781982422,
     "trace": [],
     "message": "",
     "output": ""
@@ -75,7 +88,7 @@
     "suite": "stats\\Test\\BaseballTest::testCalc",
     "test": "stats\\Test\\BaseballTest::testCalc with data set #0 (389, 129)",
     "status": "warning",
-    "time": 0.0090010166168213,
+    "time": 0.0080008506774902,
     "trace": [
         {
             "file": "C:\\xampp\\php\\pear\\PHPUnit\\TextUI\\Command.php",
@@ -103,7 +116,7 @@
     "suite": "stats\\Test\\BaseballTest::testCalc",
     "test": "stats\\Test\\BaseballTest::testCalc with data set #1 ('hello', 129)",
     "status": "warning",
-    "time": 0.0080010890960693,
+    "time": 0.0069999694824219,
     "trace": [
         {
             "file": "C:\\xampp\\php\\pear\\PHPUnit\\TextUI\\Command.php",
@@ -213,7 +226,7 @@
     "suite": "",
     "test": "stats\\Test\\BaseballTest::testOps",
     "status": "pass",
-    "time": 0.0080008506774902,
+    "time": 0.0080010890960693,
     "trace": [],
     "message": "",
     "output": ""
@@ -226,7 +239,7 @@
     "suite": "",
     "test": "stats\\Test\\BaseballTest::testcalc_ops_private",
     "status": "pass",
-    "time": 0.0080010890960693,
+    "time": 0.0090010166168213,
     "trace": [],
     "message": "",
     "output": ""
@@ -243,7 +256,7 @@
     "suite": "FirstTest",
     "test": "FirstTest::testUselessness",
     "status": "pass",
-    "time": 0.0080001354217529,
+    "time": 0.0080008506774902,
     "trace": [],
     "message": "",
     "output": ""

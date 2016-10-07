@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1475805959">
-  <project timestamp="1475805959">
+<coverage generated="1475807453">
+  <project timestamp="1475807453">
     <package name="stats">
       <file name="C:\xampp\htdocs\stats/Baseball.php">
         <class name="Baseball" namespace="stats">
-          <metrics complexity="9" methods="5" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="25" coveredstatements="17" elements="30" coveredelements="19"/>
+          <metrics complexity="9" methods="5" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="25" coveredstatements="19" elements="30" coveredelements="21"/>
         </class>
-        <line num="11" type="method" name="calc_avg" visibility="public" complexity="3" crap="3.79" count="4"/>
-        <line num="13" type="stmt" count="4"/>
+        <line num="11" type="method" name="calc_avg" visibility="public" complexity="3" crap="3.10" count="5"/>
+        <line num="13" type="stmt" count="5"/>
         <line num="14" type="stmt" count="0"/>
         <line num="15" type="stmt" count="0"/>
-        <line num="18" type="stmt" count="4"/>
-        <line num="19" type="stmt" count="4"/>
-        <line num="20" type="stmt" count="0"/>
-        <line num="21" type="stmt" count="0"/>
+        <line num="18" type="stmt" count="5"/>
+        <line num="19" type="stmt" count="5"/>
+        <line num="20" type="stmt" count="1"/>
+        <line num="21" type="stmt" count="1"/>
         <line num="24" type="stmt" count="4"/>
-        <line num="26" type="stmt" count="4"/>
+        <line num="26" type="stmt" count="5"/>
         <line num="36" type="method" name="calc_obp" visibility="public" complexity="2" crap="2.15" count="1"/>
         <line num="38" type="stmt" count="1"/>
         <line num="39" type="stmt" count="1"/>
@@ -36,7 +36,7 @@
         <line num="72" type="method" name="calc_ops_private" visibility="private" complexity="1" crap="1" count="1"/>
         <line num="76" type="stmt" count="1"/>
         <line num="77" type="stmt" count="1"/>
-        <metrics loc="82" ncloc="57" classes="1" methods="5" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="25" coveredstatements="17" elements="30" coveredelements="19"/>
+        <metrics loc="82" ncloc="57" classes="1" methods="5" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="25" coveredstatements="19" elements="30" coveredelements="21"/>
       </file>
       <file name="C:\xampp\htdocs\stats/BaseballApi.php">
         <class name="BaseballApi" namespace="stats">
@@ -76,16 +76,16 @@
       </file>
       <file name="C:\xampp\htdocs\stats/Test/BaseballTest.php">
         <class name="BaseballTest" namespace="stats\Test">
-          <metrics complexity="12" methods="11" coveredmethods="10" conditionals="0" coveredconditionals="0" statements="55" coveredstatements="50" elements="66" coveredelements="60"/>
+          <metrics complexity="13" methods="12" coveredmethods="11" conditionals="0" coveredconditionals="0" statements="61" coveredstatements="56" elements="73" coveredelements="67"/>
         </class>
-        <line num="11" type="method" name="setUp" visibility="public" complexity="1" crap="1" count="10"/>
-        <line num="12" type="stmt" count="10"/>
-        <line num="13" type="stmt" count="10"/>
-        <line num="14" type="stmt" count="10"/>
-        <line num="16" type="method" name="tearDown" visibility="public" complexity="1" crap="1" count="10"/>
-        <line num="17" type="stmt" count="10"/>
-        <line num="18" type="stmt" count="10"/>
-        <line num="19" type="stmt" count="10"/>
+        <line num="11" type="method" name="setUp" visibility="public" complexity="1" crap="1" count="11"/>
+        <line num="12" type="stmt" count="11"/>
+        <line num="13" type="stmt" count="11"/>
+        <line num="14" type="stmt" count="11"/>
+        <line num="16" type="method" name="tearDown" visibility="public" complexity="1" crap="1" count="11"/>
+        <line num="17" type="stmt" count="11"/>
+        <line num="18" type="stmt" count="11"/>
+        <line num="19" type="stmt" count="11"/>
         <line num="21" type="method" name="testCalcAvgEquals" visibility="public" complexity="1" crap="1" count="1"/>
         <line num="23" type="stmt" count="1"/>
         <line num="24" type="stmt" count="1"/>
@@ -94,57 +94,64 @@
         <line num="31" type="stmt" count="1"/>
         <line num="32" type="stmt" count="1"/>
         <line num="33" type="stmt" count="1"/>
-        <line num="35" type="method" name="testCalcHitsAreStrings" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="35" type="method" name="testCalcAvgHasZeroAtBats" visibility="public" complexity="1" crap="1" count="1"/>
         <line num="37" type="stmt" count="1"/>
         <line num="38" type="stmt" count="1"/>
         <line num="40" type="stmt" count="1"/>
-        <line num="41" type="stmt" count="1"/>
         <line num="45" type="stmt" count="1"/>
         <line num="46" type="stmt" count="1"/>
         <line num="47" type="stmt" count="1"/>
-        <line num="58" type="method" name="testCalc" visibility="public" complexity="2" crap="2" count="4"/>
-        <line num="60" type="stmt" count="4"/>
-        <line num="61" type="stmt" count="2"/>
-        <line num="62" type="stmt" count="2"/>
-        <line num="66" type="stmt" count="2"/>
-        <line num="67" type="stmt" count="2"/>
-        <line num="71" type="stmt" count="2"/>
-        <line num="72" type="stmt" count="2"/>
-        <line num="73" type="stmt" count="2"/>
-        <line num="75" type="method" name="providerCalcArgs" visibility="public" complexity="1" crap="2" count="0"/>
-        <line num="79" type="stmt" count="0"/>
-        <line num="80" type="stmt" count="0"/>
-        <line num="81" type="stmt" count="0"/>
-        <line num="82" type="stmt" count="0"/>
-        <line num="83" type="stmt" count="0"/>
-        <line num="89" type="method" name="testSlugging" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="92" type="stmt" count="1"/>
-        <line num="93" type="stmt" count="1"/>
-        <line num="94" type="stmt" count="1"/>
-        <line num="95" type="stmt" count="1"/>
-        <line num="100" type="method" name="testOnBasePerc" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="103" type="stmt" count="1"/>
-        <line num="104" type="stmt" count="1"/>
-        <line num="105" type="stmt" count="1"/>
+        <line num="49" type="method" name="testCalcHitsAreStrings" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="51" type="stmt" count="1"/>
+        <line num="52" type="stmt" count="1"/>
+        <line num="54" type="stmt" count="1"/>
+        <line num="55" type="stmt" count="1"/>
+        <line num="59" type="stmt" count="1"/>
+        <line num="60" type="stmt" count="1"/>
+        <line num="61" type="stmt" count="1"/>
+        <line num="72" type="method" name="testCalc" visibility="public" complexity="2" crap="2" count="4"/>
+        <line num="74" type="stmt" count="4"/>
+        <line num="75" type="stmt" count="2"/>
+        <line num="76" type="stmt" count="2"/>
+        <line num="80" type="stmt" count="2"/>
+        <line num="81" type="stmt" count="2"/>
+        <line num="85" type="stmt" count="2"/>
+        <line num="86" type="stmt" count="2"/>
+        <line num="87" type="stmt" count="2"/>
+        <line num="89" type="method" name="providerCalcArgs" visibility="public" complexity="1" crap="2" count="0"/>
+        <line num="93" type="stmt" count="0"/>
+        <line num="94" type="stmt" count="0"/>
+        <line num="95" type="stmt" count="0"/>
+        <line num="96" type="stmt" count="0"/>
+        <line num="97" type="stmt" count="0"/>
+        <line num="103" type="method" name="testSlugging" visibility="public" complexity="1" crap="1" count="1"/>
         <line num="106" type="stmt" count="1"/>
-        <line num="116" type="method" name="testOps" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="107" type="stmt" count="1"/>
+        <line num="108" type="stmt" count="1"/>
+        <line num="109" type="stmt" count="1"/>
+        <line num="114" type="method" name="testOnBasePerc" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="117" type="stmt" count="1"/>
+        <line num="118" type="stmt" count="1"/>
+        <line num="119" type="stmt" count="1"/>
         <line num="120" type="stmt" count="1"/>
-        <line num="121" type="stmt" count="1"/>
-        <line num="122" type="stmt" count="1"/>
-        <line num="123" type="stmt" count="1"/>
-        <line num="143" type="method" name="invokeMethod" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="145" type="stmt" count="1"/>
-        <line num="146" type="stmt" count="1"/>
-        <line num="147" type="stmt" count="1"/>
-        <line num="148" type="stmt" count="1"/>
-        <line num="151" type="method" name="testcalc_ops_private" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="153" type="stmt" count="1"/>
-        <line num="154" type="stmt" count="1"/>
-        <line num="155" type="stmt" count="1"/>
-        <line num="156" type="stmt" count="1"/>
-        <line num="157" type="stmt" count="1"/>
+        <line num="130" type="method" name="testOps" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="134" type="stmt" count="1"/>
+        <line num="135" type="stmt" count="1"/>
+        <line num="136" type="stmt" count="1"/>
+        <line num="137" type="stmt" count="1"/>
+        <line num="157" type="method" name="invokeMethod" visibility="public" complexity="1" crap="1" count="1"/>
         <line num="159" type="stmt" count="1"/>
-        <metrics loc="181" ncloc="121" classes="1" methods="11" coveredmethods="10" conditionals="0" coveredconditionals="0" statements="55" coveredstatements="50" elements="66" coveredelements="60"/>
+        <line num="160" type="stmt" count="1"/>
+        <line num="161" type="stmt" count="1"/>
+        <line num="162" type="stmt" count="1"/>
+        <line num="165" type="method" name="testcalc_ops_private" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="167" type="stmt" count="1"/>
+        <line num="168" type="stmt" count="1"/>
+        <line num="169" type="stmt" count="1"/>
+        <line num="170" type="stmt" count="1"/>
+        <line num="171" type="stmt" count="1"/>
+        <line num="173" type="stmt" count="1"/>
+        <metrics loc="195" ncloc="131" classes="1" methods="12" coveredmethods="11" conditionals="0" coveredconditionals="0" statements="61" coveredstatements="56" elements="73" coveredelements="67"/>
       </file>
     </package>
     <file name="C:\xampp\htdocs\stats/Test/FirstTest.php">
@@ -155,6 +162,6 @@
       <line num="9" type="stmt" count="1"/>
       <metrics loc="10" ncloc="6" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
     </file>
-    <metrics files="5" loc="350" ncloc="229" classes="5" methods="21" coveredmethods="16" conditionals="0" coveredconditionals="0" statements="99" coveredstatements="84" elements="120" coveredelements="100"/>
+    <metrics files="5" loc="364" ncloc="239" classes="5" methods="22" coveredmethods="17" conditionals="0" coveredconditionals="0" statements="105" coveredstatements="92" elements="127" coveredelements="109"/>
   </project>
 </coverage>

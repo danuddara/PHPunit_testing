@@ -6,80 +6,86 @@ $coverage->setData(array (
     12 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
-      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
-      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
-      6 => 'stats\\Test\\BaseballTest::testSlugging',
-      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
-      8 => 'stats\\Test\\BaseballTest::testOps',
-      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+      1 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+      2 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      6 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      7 => 'stats\\Test\\BaseballTest::testSlugging',
+      8 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      9 => 'stats\\Test\\BaseballTest::testOps',
+      10 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
     ),
     13 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
-      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
-      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
-      6 => 'stats\\Test\\BaseballTest::testSlugging',
-      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
-      8 => 'stats\\Test\\BaseballTest::testOps',
-      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+      1 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+      2 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      6 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      7 => 'stats\\Test\\BaseballTest::testSlugging',
+      8 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      9 => 'stats\\Test\\BaseballTest::testOps',
+      10 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
     ),
     14 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
-      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
-      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
-      6 => 'stats\\Test\\BaseballTest::testSlugging',
-      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
-      8 => 'stats\\Test\\BaseballTest::testOps',
-      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+      1 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+      2 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      6 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      7 => 'stats\\Test\\BaseballTest::testSlugging',
+      8 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      9 => 'stats\\Test\\BaseballTest::testOps',
+      10 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
     ),
     17 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
-      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
-      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
-      6 => 'stats\\Test\\BaseballTest::testSlugging',
-      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
-      8 => 'stats\\Test\\BaseballTest::testOps',
-      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+      1 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+      2 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      6 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      7 => 'stats\\Test\\BaseballTest::testSlugging',
+      8 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      9 => 'stats\\Test\\BaseballTest::testOps',
+      10 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
     ),
     18 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
-      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
-      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
-      6 => 'stats\\Test\\BaseballTest::testSlugging',
-      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
-      8 => 'stats\\Test\\BaseballTest::testOps',
-      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+      1 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+      2 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      6 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      7 => 'stats\\Test\\BaseballTest::testSlugging',
+      8 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      9 => 'stats\\Test\\BaseballTest::testOps',
+      10 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
     ),
     19 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
-      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      3 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
-      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-      5 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
-      6 => 'stats\\Test\\BaseballTest::testSlugging',
-      7 => 'stats\\Test\\BaseballTest::testOnBasePerc',
-      8 => 'stats\\Test\\BaseballTest::testOps',
-      9 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+      1 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+      2 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
+      5 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      6 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
+      7 => 'stats\\Test\\BaseballTest::testSlugging',
+      8 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+      9 => 'stats\\Test\\BaseballTest::testOps',
+      10 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
     ),
     23 => 
     array (
@@ -111,179 +117,203 @@ $coverage->setData(array (
     ),
     37 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
     ),
     38 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
     ),
     40 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-    ),
-    41 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
     ),
     45 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
     ),
     46 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
     ),
     47 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+    ),
+    51 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    52 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    54 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    55 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    59 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
     ),
     60 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    61 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+    ),
+    74 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
       1 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
       2 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
       3 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
     ),
-    61 => 
+    75 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
       1 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
     ),
-    62 => 
+    76 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalc with data set #1',
       1 => 'stats\\Test\\BaseballTest::testCalc with data set #3',
     ),
-    64 => NULL,
-    66 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-    ),
-    67 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-    ),
-    71 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-    ),
-    72 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-    ),
-    73 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
-    ),
-    79 => 
-    array (
-    ),
+    78 => NULL,
     80 => 
     array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
     ),
     81 => 
     array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
     ),
-    82 => 
+    85 => 
     array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
     ),
-    83 => 
+    86 => 
     array (
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
     ),
-    86 => NULL,
-    92 => 
+    87 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testSlugging',
+      0 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      1 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
     ),
     93 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testSlugging',
     ),
     94 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testSlugging',
     ),
     95 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testSlugging',
     ),
-    97 => NULL,
-    103 => 
+    96 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
     ),
-    104 => 
+    97 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
     ),
-    105 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
-    ),
+    100 => NULL,
     106 => 
     array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    107 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    108 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    109 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testSlugging',
+    ),
+    111 => NULL,
+    117 => 
+    array (
       0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
     ),
-    107 => NULL,
+    118 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+    ),
+    119 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
+    ),
     120 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testOps',
+      0 => 'stats\\Test\\BaseballTest::testOnBasePerc',
     ),
-    121 => 
+    121 => NULL,
+    134 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testOps',
     ),
-    122 => 
+    135 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testOps',
     ),
-    123 => 
+    136 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testOps',
     ),
-    145 => 
+    137 => 
     array (
-      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
-    ),
-    146 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
-    ),
-    147 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
-    ),
-    148 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
-    ),
-    149 => NULL,
-    153 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
-    ),
-    154 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
-    ),
-    155 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
-    ),
-    156 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
-    ),
-    157 => 
-    array (
-      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+      0 => 'stats\\Test\\BaseballTest::testOps',
     ),
     159 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    160 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    161 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    162 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    163 => NULL,
+    167 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    168 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    169 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    170 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    171 => 
+    array (
+      0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
+    ),
+    173 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testcalc_ops_private',
     ),
@@ -378,9 +408,10 @@ $coverage->setData(array (
     13 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
-      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      3 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      1 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+      2 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
     ),
     14 => 
     array (
@@ -392,22 +423,26 @@ $coverage->setData(array (
     18 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
-      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      3 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      1 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+      2 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
     ),
     19 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
-      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      3 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      1 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+      2 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
     ),
     20 => 
     array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
     ),
     21 => 
     array (
+      0 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
     ),
     24 => 
     array (
@@ -419,9 +454,10 @@ $coverage->setData(array (
     26 => 
     array (
       0 => 'stats\\Test\\BaseballTest::testCalcAvgEquals',
-      1 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
-      2 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
-      3 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
+      1 => 'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats',
+      2 => 'stats\\Test\\BaseballTest::testCalcHitsAreStrings',
+      3 => 'stats\\Test\\BaseballTest::testCalc with data set #0',
+      4 => 'stats\\Test\\BaseballTest::testCalc with data set #2',
     ),
     27 => NULL,
     38 => 
@@ -507,6 +543,11 @@ $coverage->setTests(array (
     'status' => 0,
   ),
   'stats\\Test\\BaseballTest::testCalcAvgEquals' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'stats\\Test\\BaseballTest::testCalcAvgHasZeroAtBats' => 
   array (
     'size' => 'unknown',
     'status' => 0,

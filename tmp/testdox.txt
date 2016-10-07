@@ -4,6 +4,7 @@ stats\Test\BaseballApi
 
 stats\Test\Baseball
  [x] Calc avg equals
+ [x] Calc avg has zero at bats
  [x] Calc hits are strings
  [ ] Calc 
  [x] Slugging
