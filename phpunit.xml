@@ -11,6 +11,9 @@
        <exclude>
         <directory suffix=".php">./vendor/</directory>
        </exclude>
+       <exclude>
+        <directory suffix=".php">./Test/</directory>
+       </exclude>
     </whitelist>
       </filter>
     <logging>

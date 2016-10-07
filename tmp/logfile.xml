@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="Application Test Suite" tests="14" assertions="11" failures="0" errors="0" time="0.197020">
-    <testsuite name="stats\Test\BaseballApiTest" file="C:\xampp\htdocs\stats\Test\BaseballApiTest.php" tests="2" assertions="2" failures="0" errors="0" time="0.088009">
-      <testcase name="test_MockObject" class="stats\Test\BaseballApiTest" file="C:\xampp\htdocs\stats\Test\BaseballApiTest.php" line="21" assertions="1" time="0.035004"/>
+  <testsuite name="Application Test Suite" tests="14" assertions="11" failures="0" errors="0" time="0.197021">
+    <testsuite name="stats\Test\BaseballApiTest" file="C:\xampp\htdocs\stats\Test\BaseballApiTest.php" tests="2" assertions="2" failures="0" errors="0" time="0.090008">
+      <testcase name="test_MockObject" class="stats\Test\BaseballApiTest" file="C:\xampp\htdocs\stats\Test\BaseballApiTest.php" line="21" assertions="1" time="0.037003"/>
       <testcase name="testMockery" class="stats\Test\BaseballApiTest" file="C:\xampp\htdocs\stats\Test\BaseballApiTest.php" line="38" assertions="1" time="0.053005"/>
     </testsuite>
-    <testsuite name="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" tests="11" assertions="9" failures="0" errors="0" time="0.101011">
-      <testcase name="testCalcAvgEquals" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="21" assertions="1" time="0.009001"/>
-      <testcase name="testCalcAvgHasZeroAtBats" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="35" assertions="1" time="0.016002"/>
+    <testsuite name="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" tests="11" assertions="9" failures="0" errors="0" time="0.099012">
+      <testcase name="testCalcAvgEquals" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="21" assertions="1" time="0.008001"/>
+      <testcase name="testCalcAvgHasZeroAtBats" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="35" assertions="1" time="0.017002"/>
       <testcase name="testCalcHitsAreStrings" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="49" assertions="1" time="0.009001"/>
-      <testsuite name="stats\Test\BaseballTest::testCalc" tests="4" assertions="2" failures="0" errors="0" time="0.032003">
+      <testsuite name="stats\Test\BaseballTest::testCalc" tests="4" assertions="2" failures="0" errors="0" time="0.032004">
         <testcase name="testCalc with data set #0" assertions="1" time="0.008001"/>
-        <testcase name="testCalc with data set #1" assertions="0" time="0.007000"/>
-        <testcase name="testCalc with data set #2" assertions="1" time="0.009001"/>
+        <testcase name="testCalc with data set #1" assertions="0" time="0.008001"/>
+        <testcase name="testCalc with data set #2" assertions="1" time="0.008001"/>
         <testcase name="testCalc with data set #3" assertions="0" time="0.008001"/>
       </testsuite>
-      <testcase name="testSlugging" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="103" assertions="1" time="0.009001"/>
-      <testcase name="testOnBasePerc" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="114" assertions="1" time="0.009001"/>
-      <testcase name="testOps" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="130" assertions="1" time="0.008001"/>
-      <testcase name="testcalc_ops_private" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="165" assertions="1" time="0.009001"/>
+      <testcase name="testSlugging" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="103" assertions="1" time="0.008001"/>
+      <testcase name="testOnBasePerc" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="114" assertions="1" time="0.008001"/>
+      <testcase name="testOps" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="130" assertions="1" time="0.009001"/>
+      <testcase name="testcalc_ops_private" class="stats\Test\BaseballTest" file="C:\xampp\htdocs\stats\Test\BaseballTest.php" line="165" assertions="1" time="0.008001"/>
     </testsuite>
     <testsuite name="FirstTest" file="C:\xampp\htdocs\stats\Test\FirstTest.php" tests="1" assertions="0" failures="0" errors="0" time="0.008001">
       <testcase name="testUselessness" class="FirstTest" file="C:\xampp\htdocs\stats\Test\FirstTest.php" line="6" assertions="0" time="0.008001"/>
